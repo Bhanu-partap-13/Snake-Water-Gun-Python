@@ -1,2 +1,9 @@
-# Snake-Water-Gun-Python
-Snake Water Gun Game Welcome to the Snake Water Gun game, a fun and simple Python project inspired by the classic Rock-Paper-Scissors game!
+<h1 align="center">Snake Water Gun Game - Python Edition</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/Zk9mW5OmXTz9e/giphy.gif" alt="Snake Animation" width="300">
+</p>
+<p align="center">
+  <strong>Snake Water Gun</strong> is a fun and interactive game built with Python, similar to Rock, Paper, Scissors. 
+  <br> 
+  🐍🌊🔫 Play and enjoy the classic game with a twist!
+</p>
